@@ -1,0 +1,464 @@
+[
+  {
+    "_id": 1,
+    "company": "Infosys Limited",
+    "title": "Software Development Intern",
+    "skills_required": [
+      "Python",
+      "SQL",
+      "React"
+    ],
+    "education": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "IT Services",
+    "summary": "Work on software projects using Python, SQL and React under senior mentors.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 2,
+    "company": "Tata Consultancy Services Limited",
+    "title": "Data Analytics Intern",
+    "skills_required": [
+      "Excel",
+      "Python",
+      "Tableau"
+    ],
+    "education": [
+      "B.Sc Statistics",
+      "B.Tech CSE"
+    ],
+    "part_time": false,
+    "work_mode": "Remote",
+    "domain": "IT Services",
+    "summary": "Assist in data cleaning, visualization, and report preparation.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 3,
+    "company": "HDFC Bank Limited",
+    "title": "Finance & Risk Intern",
+    "skills_required": [
+      "MS Excel",
+      "Financial Modelling",
+      "Communication"
+    ],
+    "education": [
+      "MBA",
+      "B.Com"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Banking & Financial Services",
+    "summary": "Support branch operations, prepare risk analysis reports.",
+    "experience_level": "Fresher/Graduate"
+  },
+  {
+    "_id": 4,
+    "company": "Reliance Industries Limited",
+    "title": "Operations Intern",
+    "skills_required": [
+      "MS Office",
+      "Process Documentation"
+    ],
+    "education": [
+      "BBA",
+      "MBA",
+      "B.Tech"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Energy & Retail",
+    "summary": "Assist operations team in data entry, reports, and vendor coordination.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 5,
+    "company": "Wipro Limited",
+    "title": "Cloud Support Intern",
+    "skills_required": [
+      "AWS",
+      "Linux",
+      "Networking"
+    ],
+    "education": [
+      "B.Tech CSE",
+      "MCA"
+    ],
+    "part_time": false,
+    "work_mode": "Remote",
+    "domain": "IT Services",
+    "summary": "Support deployment of cloud applications and monitoring systems.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 6,
+    "company": "ICICI Bank Limited",
+    "title": "Data Analyst Intern",
+    "skills_required": [
+      "SQL",
+      "Excel",
+      "Python"
+    ],
+    "education": [
+      "B.Sc Mathematics",
+      "MBA Finance"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "Banking & Financial Services",
+    "summary": "Analyze customer transactions and prepare MIS reports.",
+    "experience_level": "Graduate/Fresher"
+  },
+  {
+    "_id": 7,
+    "company": "NTPC Limited",
+    "title": "Energy Engineering Intern",
+    "skills_required": [
+      "Electrical Basics",
+      "Thermal Power Knowledge"
+    ],
+    "education": [
+      "B.Tech Electrical",
+      "B.Tech Mechanical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Power & Utilities",
+    "summary": "Learn about plant operations and support technical staff.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 8,
+    "company": "Indian Oil Corporation Limited",
+    "title": "Petroleum Engineering Intern",
+    "skills_required": [
+      "Petroleum Basics",
+      "Safety Standards"
+    ],
+    "education": [
+      "B.Tech Petroleum",
+      "B.Tech Chemical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Oil & Gas",
+    "summary": "Support refinery operations and assist engineers in daily reporting.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 9,
+    "company": "Hindustan Unilever Limited",
+    "title": "Marketing Intern",
+    "skills_required": [
+      "Market Research",
+      "MS Excel",
+      "Presentation Skills"
+    ],
+    "education": [
+      "MBA Marketing",
+      "BBA"
+    ],
+    "part_time": true,
+    "work_mode": "Hybrid",
+    "domain": "FMCG & Consumer",
+    "summary": "Work on product surveys and assist in marketing campaigns.",
+    "experience_level": "Graduate/Fresher"
+  },
+  {
+    "_id": 10,
+    "company": "Tech Mahindra Limited",
+    "title": "AI & ML Intern",
+    "skills_required": [
+      "Python",
+      "TensorFlow",
+      "NLP"
+    ],
+    "education": [
+      "B.Tech CSE",
+      "M.Tech AI"
+    ],
+    "part_time": false,
+    "work_mode": "Remote",
+    "domain": "IT Services",
+    "summary": "Develop AI models for text and image processing.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 11,
+    "company": "Axis Bank Limited",
+    "title": "Operations Intern",
+    "skills_required": [
+      "Excel",
+      "Communication",
+      "CRM Tools"
+    ],
+    "education": [
+      "BBA",
+      "MBA"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Banking & Financial Services",
+    "summary": "Assist in branch documentation and backend operations.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 12,
+    "company": "Larsen and Toubro Limited",
+    "title": "Civil Engineering Intern",
+    "skills_required": [
+      "AutoCAD",
+      "Project Management Basics"
+    ],
+    "education": [
+      "B.Tech Civil"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Infrastructure & Construction",
+    "summary": "Assist project engineers with design and construction support.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 13,
+    "company": "Cognizant Technology Solutions",
+    "title": "Business Analyst Intern",
+    "skills_required": [
+      "MS Excel",
+      "SQL",
+      "Presentation"
+    ],
+    "education": [
+      "B.Tech",
+      "MBA"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "IT Services",
+    "summary": "Analyze client requirements and assist in preparing reports.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 14,
+    "company": "JSW Steel Limited",
+    "title": "Mechanical Engineering Intern",
+    "skills_required": [
+      "Thermodynamics",
+      "CAD",
+      "Plant Safety"
+    ],
+    "education": [
+      "B.Tech Mechanical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Metals & Mining",
+    "summary": "Support manufacturing processes and machinery maintenance.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 15,
+    "company": "Maruti Suzuki India Limited",
+    "title": "Automobile Engineering Intern",
+    "skills_required": [
+      "CAD",
+      "Automobile Basics",
+      "Testing"
+    ],
+    "education": [
+      "B.Tech Automobile",
+      "B.Tech Mechanical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Automotive",
+    "summary": "Assist in R&D and vehicle testing activities.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 16,
+    "company": "Bajaj Finance Limited",
+    "title": "Digital Marketing Intern",
+    "skills_required": [
+      "SEO",
+      "Google Analytics",
+      "Content Writing"
+    ],
+    "education": [
+      "BBA",
+      "MBA Marketing"
+    ],
+    "part_time": true,
+    "work_mode": "Remote",
+    "domain": "Banking & Financial Services",
+    "summary": "Work on digital campaigns and analyze traffic reports.",
+    "experience_level": "Graduate/Fresher"
+  },
+  {
+    "_id": 17,
+    "company": "Siemens Limited",
+    "title": "Electrical Engineering Intern",
+    "skills_required": [
+      "MATLAB",
+      "Power Systems"
+    ],
+    "education": [
+      "B.Tech Electrical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Electronics & Electricals",
+    "summary": "Support power system simulations and testing.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 18,
+    "company": "Dabur India Limited",
+    "title": "Supply Chain Intern",
+    "skills_required": [
+      "Excel",
+      "Logistics Knowledge"
+    ],
+    "education": [
+      "BBA",
+      "MBA Operations"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "FMCG & Consumer",
+    "summary": "Assist in inventory and logistics management.",
+    "experience_level": "Graduate/Fresher"
+  },
+  {
+    "_id": 19,
+    "company": "Eicher Motors Limited",
+    "title": "Production Intern",
+    "skills_required": [
+      "Mechanical Basics",
+      "CAD"
+    ],
+    "education": [
+      "B.Tech Mechanical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Automotive",
+    "summary": "Assist production engineers in assembly line activities.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 20,
+    "company": "Amazon India",
+    "title": "Operations Intern",
+    "skills_required": [
+      "Excel",
+      "Supply Chain Basics"
+    ],
+    "education": [
+      "BBA",
+      "MBA Operations"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "E-Commerce",
+    "summary": "Assist in warehouse operations and logistics.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 21,
+    "company": "Flipkart Internet Private Limited",
+    "title": "UI/UX Intern",
+    "skills_required": [
+      "Figma",
+      "Wireframing",
+      "User Research"
+    ],
+    "education": [
+      "B.Des",
+      "M.Des"
+    ],
+    "part_time": true,
+    "work_mode": "Remote",
+    "domain": "E-Commerce",
+    "summary": "Assist in designing user-friendly app interfaces.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 22,
+    "company": "Zoho Corporation",
+    "title": "Software Engineering Intern",
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "SQL"
+    ],
+    "education": [
+      "B.Tech CSE"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "IT Services",
+    "summary": "Work on SaaS applications and backend services.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 23,
+    "company": "Google India",
+    "title": "AI Research Intern",
+    "skills_required": [
+      "Python",
+      "Deep Learning",
+      "NLP"
+    ],
+    "education": [
+      "M.Tech AI",
+      "PhD CS"
+    ],
+    "part_time": false,
+    "work_mode": "Hybrid",
+    "domain": "IT Services",
+    "summary": "Support research teams in NLP and AI model development.",
+    "experience_level": "Postgraduate"
+  },
+  {
+    "_id": 24,
+    "company": "Hindustan Aeronautics Limited",
+    "title": "Aerospace Engineering Intern",
+    "skills_required": [
+      "CAD",
+      "Aerospace Basics"
+    ],
+    "education": [
+      "B.Tech Aerospace",
+      "B.Tech Mechanical"
+    ],
+    "part_time": false,
+    "work_mode": "Onsite",
+    "domain": "Aerospace & Defence",
+    "summary": "Assist in design and testing of aerospace components.",
+    "experience_level": "Fresher"
+  },
+  {
+    "_id": 25,
+    "company": "Capgemini Technology Services",
+    "title": "Cybersecurity Intern",
+    "skills_required": [
+      "Networking",
+      "Cybersecurity Basics",
+      "Linux"
+    ],
+    "education": [
+      "B.Tech IT",
+      "MCA"
+    ],
+    "part_time": false,
+    "work_mode": "Remote",
+    "domain": "IT Services",
+    "summary": "Support cybersecurity monitoring and incident response.",
+    "experience_level": "Fresher"
+  }
+]

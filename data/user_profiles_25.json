@@ -1,0 +1,252 @@
+[
+  {
+    "user_id": 1,
+    "name": "Rahul Kumar",
+    "education": "B.Tech CSE",
+    "skills": ["Python", "SQL", "Machine Learning"],
+    "location": "Delhi",
+    "preferred_mode": "Remote",
+    "experience_level": "Fresher",
+    "interests": ["AI", "Data Science", "Software Development"]
+  },
+  {
+    "user_id": 2,
+    "name": "Ananya Sharma",
+    "education": "MBA Marketing",
+    "skills": ["Market Research", "Digital Marketing", "Excel"],
+    "location": "Mumbai",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Graduate",
+    "interests": ["Marketing", "Consumer Behavior"]
+  },
+  {
+    "user_id": 3,
+    "name": "Ravi Verma",
+    "education": "B.Tech Mechanical",
+    "skills": ["CAD", "Thermodynamics", "Manufacturing"],
+    "location": "Pune",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Automobile", "Production Engineering"]
+  },
+  {
+    "user_id": 4,
+    "name": "Priya Iyer",
+    "education": "B.Tech Civil",
+    "skills": ["AutoCAD", "Project Management"],
+    "location": "Chennai",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Construction", "Infrastructure Projects"]
+  },
+  {
+    "user_id": 5,
+    "name": "Mohammed Azeem",
+    "education": "B.Tech IT",
+    "skills": ["Java", "Spring Boot", "SQL"],
+    "location": "Hyderabad",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Fresher",
+    "interests": ["Software Engineering", "Backend Development"]
+  },
+  {
+    "user_id": 6,
+    "name": "Kavya Nair",
+    "education": "BBA",
+    "skills": ["Excel", "Communication", "CRM"],
+    "location": "Kochi",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Graduate",
+    "interests": ["Banking", "Operations"]
+  },
+  {
+    "user_id": 7,
+    "name": "Sandeep Reddy",
+    "education": "M.Tech AI",
+    "skills": ["Python", "TensorFlow", "NLP"],
+    "location": "Bangalore",
+    "preferred_mode": "Remote",
+    "experience_level": "Postgraduate",
+    "interests": ["Artificial Intelligence", "Research"]
+  },
+  {
+    "user_id": 8,
+    "name": "Neha Gupta",
+    "education": "B.Des",
+    "skills": ["Figma", "User Research", "Wireframing"],
+    "location": "Gurgaon",
+    "preferred_mode": "Remote",
+    "experience_level": "Fresher",
+    "interests": ["UI/UX Design", "Human-Centered Design"]
+  },
+  {
+    "user_id": 9,
+    "name": "Amit Singh",
+    "education": "B.Tech Electrical",
+    "skills": ["MATLAB", "Power Systems", "Electrical Design"],
+    "location": "Lucknow",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Electrical Engineering", "Power Systems"]
+  },
+  {
+    "user_id": 10,
+    "name": "Shalini Mishra",
+    "education": "MBA Operations",
+    "skills": ["Logistics", "Excel", "Supply Chain"],
+    "location": "Delhi",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Graduate",
+    "interests": ["Supply Chain", "Logistics Management"]
+  },
+  {
+    "user_id": 11,
+    "name": "Arjun Mehta",
+    "education": "B.Tech Petroleum",
+    "skills": ["Petroleum Basics", "Safety Standards"],
+    "location": "Ahmedabad",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Petroleum Engineering", "Refinery Operations"]
+  },
+  {
+    "user_id": 12,
+    "name": "Sneha Roy",
+    "education": "MCA",
+    "skills": ["Networking", "Linux", "Cybersecurity"],
+    "location": "Kolkata",
+    "preferred_mode": "Remote",
+    "experience_level": "Graduate",
+    "interests": ["Cybersecurity", "Networking"]
+  },
+  {
+    "user_id": 13,
+    "name": "Manish Yadav",
+    "education": "MBA Finance",
+    "skills": ["Financial Modelling", "Excel", "Analysis"],
+    "location": "Delhi",
+    "preferred_mode": "Onsite",
+    "experience_level": "Graduate",
+    "interests": ["Finance", "Risk Management"]
+  },
+  {
+    "user_id": 14,
+    "name": "Ritika Jain",
+    "education": "B.Tech CSE",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "location": "Bangalore",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Fresher",
+    "interests": ["Web Development", "Software Engineering"]
+  },
+  {
+    "user_id": 15,
+    "name": "Ajay Patel",
+    "education": "B.Tech Aerospace",
+    "skills": ["CAD", "Aerodynamics"],
+    "location": "Hyderabad",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Aerospace Engineering", "Defence Technology"]
+  },
+  {
+    "user_id": 16,
+    "name": "Pooja Das",
+    "education": "B.Sc Statistics",
+    "skills": ["Python", "Excel", "Data Visualization"],
+    "location": "Kolkata",
+    "preferred_mode": "Remote",
+    "experience_level": "Fresher",
+    "interests": ["Data Analytics", "Business Intelligence"]
+  },
+  {
+    "user_id": 17,
+    "name": "Vikram Chauhan",
+    "education": "B.Tech Mechanical",
+    "skills": ["CAD", "CAM", "Testing"],
+    "location": "Indore",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Automobile", "Production"]
+  },
+  {
+    "user_id": 18,
+    "name": "Meera Pillai",
+    "education": "MBA Marketing",
+    "skills": ["SEO", "Google Analytics", "Content Writing"],
+    "location": "Chennai",
+    "preferred_mode": "Remote",
+    "experience_level": "Graduate",
+    "interests": ["Digital Marketing", "Branding"]
+  },
+  {
+    "user_id": 19,
+    "name": "Rohit Sen",
+    "education": "B.Com",
+    "skills": ["Accounting", "MS Excel", "Tally"],
+    "location": "Delhi",
+    "preferred_mode": "Onsite",
+    "experience_level": "Graduate",
+    "interests": ["Banking", "Finance"]
+  },
+  {
+    "user_id": 20,
+    "name": "Divya Menon",
+    "education": "M.Tech AI",
+    "skills": ["Deep Learning", "NLP", "Python"],
+    "location": "Bangalore",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Postgraduate",
+    "interests": ["AI Research", "Machine Learning"]
+  },
+  {
+    "user_id": 21,
+    "name": "Nikhil Joshi",
+    "education": "B.Tech CSE",
+    "skills": ["Java", "DSA", "SQL"],
+    "location": "Pune",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Backend Development", "Databases"]
+  },
+  {
+    "user_id": 22,
+    "name": "Sanya Kapoor",
+    "education": "BBA",
+    "skills": ["Excel", "Business Communication"],
+    "location": "Delhi",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Graduate",
+    "interests": ["Business Operations", "Administration"]
+  },
+  {
+    "user_id": 23,
+    "name": "Harshita Rathi",
+    "education": "M.Des",
+    "skills": ["Adobe XD", "User Testing", "Wireframing"],
+    "location": "Mumbai",
+    "preferred_mode": "Remote",
+    "experience_level": "Postgraduate",
+    "interests": ["UI/UX Design", "Product Design"]
+  },
+  {
+    "user_id": 24,
+    "name": "Gaurav Malhotra",
+    "education": "B.Tech Electrical",
+    "skills": ["Circuit Design", "Power Electronics"],
+    "location": "Jaipur",
+    "preferred_mode": "Onsite",
+    "experience_level": "Fresher",
+    "interests": ["Electronics", "Power Systems"]
+  },
+  {
+    "user_id": 25,
+    "name": "Shreya Banerjee",
+    "education": "MBA HR",
+    "skills": ["Recruitment", "Excel", "Communication"],
+    "location": "Kolkata",
+    "preferred_mode": "Hybrid",
+    "experience_level": "Graduate",
+    "interests": ["Human Resources", "Talent Management"]
+  }
+]

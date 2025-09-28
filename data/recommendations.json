@@ -1,0 +1,64 @@
+{
+  "Rahul Kumar": [
+    {
+      "company": "Tata Consultancy Services Limited",
+      "title": "Data Analytics Intern",
+      "match_score": 51.67,
+      "reasons": {
+        "skills": "Matched ['python']",
+        "education": "Education requirement satisfied",
+        "domain": "Domain mismatch",
+        "work_mode": "Work mode matches",
+        "experience": "Experience level matches"
+      }
+    },
+    {
+      "company": "Tech Mahindra Limited",
+      "title": "AI & ML Intern",
+      "match_score": 51.67,
+      "reasons": {
+        "skills": "Matched ['python']",
+        "education": "Education requirement satisfied",
+        "domain": "Domain mismatch",
+        "work_mode": "Work mode matches",
+        "experience": "Experience level matches"
+      }
+    },
+    {
+      "company": "Infosys Limited",
+      "title": "Software Development Intern",
+      "match_score": 43.33,
+      "reasons": {
+        "skills": "Matched ['python', 'sql']",
+        "education": "Education mismatch",
+        "domain": "Domain mismatch",
+        "work_mode": "Preferred Remote vs Hybrid",
+        "experience": "Experience level matches"
+      }
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "title": "Data Analyst Intern",
+      "match_score": 43.33,
+      "reasons": {
+        "skills": "Matched ['python', 'sql']",
+        "education": "Education mismatch",
+        "domain": "Domain mismatch",
+        "work_mode": "Preferred Remote vs Hybrid",
+        "experience": "Experience level matches"
+      }
+    },
+    {
+      "company": "Zoho Corporation",
+      "title": "Software Engineering Intern",
+      "match_score": 41.67,
+      "reasons": {
+        "skills": "Matched ['sql']",
+        "education": "Education requirement satisfied",
+        "domain": "Domain mismatch",
+        "work_mode": "Preferred Remote vs Onsite",
+        "experience": "Experience level matches"
+      }
+    }
+  ]
+}
